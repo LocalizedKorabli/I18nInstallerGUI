@@ -1,0 +1,7 @@
+/.idea
+/dist
+/build
+*.spec
+game_info.xml
+/bin
+/i18n_installer
