@@ -4,4 +4,5 @@
 *.spec
 game_info.xml
 /bin
-/i18n_installer
+/l10n_installer
+/inno/Output
